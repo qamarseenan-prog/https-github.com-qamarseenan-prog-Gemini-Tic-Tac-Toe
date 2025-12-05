@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tic-Tac-Toe",
+  "description": "A modern, responsive Tic-Tac-Toe game featuring local PvP and an intelligent AI opponent powered by Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
